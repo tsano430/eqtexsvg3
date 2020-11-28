@@ -41,11 +41,6 @@ $ sudo tlmgr paper a4
 ```
 
 
-Using EQTeXSVG3
---------------
-
-<img src="https://raw.github.com/wiki/tsanogh/eqtexsvg3/images/usage_eqtexsvg3.gif" width="512">
-
 Credits
 --------
 
